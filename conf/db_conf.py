@@ -18,4 +18,4 @@ db = client.mydatabase
 user_collection = db.users 
 print(connection_string)
 
-user_collection.insert_one({'name':'chandan'})
+# user_collection.insert_one({'name':'chandan'})
